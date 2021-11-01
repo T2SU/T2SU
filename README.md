@@ -1,5 +1,3 @@
-### 42서울 유닛 테스트에 관해
- - 해당 테스트가 진행 중인 라 피신에 영향이 큰 것으로 파악되어 부득이하게 저장소를 비공개로 전환합니다.
 
 <!--
 **T2SU/T2SU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
